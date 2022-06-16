@@ -18,7 +18,8 @@ input{
 button{
     border-radius: 20px;
     font-size: 40px;
-    background: #978fa0;
+    color: whitesmoke;
+    background: #00203FFF;
     width: 102px;
     height: 90px;
     margin: 6px;
@@ -26,7 +27,7 @@ button{
 
 .calculator{ 
     border: 4px solid #13695d;
-    background-color: #ff99f7;
+    background-color: #ADEFD1FF;
     padding: 23px;
     border-radius: 53px;
     display: inline-block;
